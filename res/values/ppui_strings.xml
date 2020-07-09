@@ -210,7 +210,11 @@
     <string name="qs_footer_warnings_summary">Display a warning at bottom of the QS panel while your network is monitored by external apps or a VPN</string>
 
     <!-- QS OOS styled dismiss all button -->
-    <string name="enable_clear_all_button">Replace clear all text with nice button</string>
+    <string name="enable_clear_all_button">OOS Style Clear All Button</string>
     <string name="enable_clear_all_button_summary">Show clear all notifications button in quick settings instead of default text one</string>
+
+    <!-- QS tiles Accent color tinting -->
+    <string name="tint_qs_tiles_title">QS tiles tint</string>
+    <string name="tint_qs_tiles_summary">Tint QS tiles with color accent</string>
 
 </resources>
